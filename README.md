@@ -27,7 +27,7 @@ Antes de começar, certifique-se de ter instalado:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/t-heu/Boilerplate_API.git
+   git clone https://github.com/t-heu/boilerplate_API.git
    cd Boilerplate_API
    ```
 
@@ -75,7 +75,7 @@ model_backend/
 
 ## 🐛 Problemas e Suporte
 
-Caso encontre algum problema, sinta-se à vontade para abrir uma [issue](https://github.com/t-heu/Boilerplate_API/issues).
+Caso encontre algum problema, sinta-se à vontade para abrir uma [issue](https://github.com/t-heu/boilerplate_API/issues).
 
 ## 📄 Licença
 
